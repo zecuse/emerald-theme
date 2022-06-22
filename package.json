@@ -1,0 +1,22 @@
+{
+    "name": "emerald-theme",
+    "displayName": "Emerald",
+    "description": "If you're familiar with Cobalt2, it's that but greens!",
+    "version": "0.0.1",
+    "publisher": "zecuse",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Emerald",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Emerald-color-theme.json"
+            }
+        ]
+    }
+}
