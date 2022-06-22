@@ -1,13 +1,9 @@
-# README
-## This is the README for your extension "emerald-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Emerald
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This is similar to the Cobalt2 theme, but everything is greens instead of blues!
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+I used [Theme Studio for VS Code](https://themes.vscode.one/) as a starting point.
 
-**Enjoy!**
+## Screenshots
+
+TODO
