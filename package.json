@@ -1,16 +1,21 @@
 {
     "name": "emerald-theme",
+    "version": "0.2.0",
     "displayName": "Emerald",
+    "description": "If you're familiar with Cobalt2, it's that but greens!",
     "publisher": "zecuse",
     "license": "MIT",
-    "version": "0.2.0",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#00281e",
+        "theme": "dark"
+    },
     "engines": {
         "vscode": "^1.51.0"
     },
     "categories": [
         "Themes"
     ],
-    "description": "If you're familiar with Cobalt2, it's that but greens!",
     "keywords": [
         "theme",
         "dark theme",
@@ -22,6 +27,31 @@
         "type": "git",
         "url": "https://github.com/zecuse/emerald-theme"
     },
+    "bugs": {
+        "url": "https://github.com/zecuse/emerald-theme/issues"
+    },
+    "badges": [
+        {
+            "url": "https://vsmarketplacebadge.apphb.com/version/zecuse.emerald-theme.svg",
+            "href": "https://marketplace.visualstudio.com/items?itemName=zecuse.emerald-theme",
+            "description": "Version"
+        },
+        {
+            "url": "https://vsmarketplacebadge.apphb.com/installs/zecuse.emerald-theme.svg",
+            "href": "https://marketplace.visualstudio.com/items?itemName=zecuse.emerald-theme",
+            "description": "Installs"
+        },
+        {
+            "url": "https://vsmarketplacebadge.apphb.com/downloads/zecuse.emerald-theme.svg",
+            "href": "https://marketplace.visualstudio.com/items?itemName=zecuse.emerald-theme",
+            "description": "Downloads"
+        },
+        {
+            "url": "https://vsmarketplacebadge.apphb.com/rating/zecuse.emerald-theme.svg",
+            "href": "https://marketplace.visualstudio.com/items?itemName=zecuse.emerald-theme",
+            "description": "Rating"
+        }
+    ],
     "contributes": {
         "themes": [
             {

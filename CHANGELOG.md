@@ -1,9 +1,30 @@
-# Change Log
+# Changelog
 
-All notable changes to the "emerald-theme" extension will be documented in this file.
+## 1.0.0 - 2022/06/23
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Added
 
-## [Unreleased]
+- Theme icon!
 
-- Initial release
+### Changed
+
+- Added link in readme to preview the theme in vscode.dev.
+- Prettied up the marketplace page.
+
+## 0.2.0 - 2022/06/22
+
+### Added
+
+- Screenshots!
+
+### Changed
+
+- Updated readme with screenshots.
+
+### Fixed
+
+- Theme terminalCursor foreground and background colors.
+
+## 0.0.1 - 2022/06/22
+
+- Initial release.
