@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.1 - 2022/06/29
+
+### Changed
+
+- editor.rangeHighlightBorder is less distracting when selecting a breadcrumb or matching a multiline find.
+- editorError.foreground & editorWarning.foreground are more saturated.
+
 ## 1.0.0 - 2022/06/23
 
 ### Added
