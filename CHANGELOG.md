@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.2 - 2022/07/02
+
+## Changed
+
+- editorBracketMatch.border has reduced opacity to more easily see the cursor.
+
 ## 1.0.1 - 2022/06/29
 
 ### Changed
